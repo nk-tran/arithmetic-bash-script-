@@ -1,10 +1,3 @@
-#COMP1236 - Group 94
-#Date - April 8, 2023
-#100898539 - Nhan Tran
-#101429112 - Huynh Yen Nhu Ly
-#101147418 - Ha Kieu Anh Nguyen
-
-
 #Menu prompts user to choose available tasks
 read -p "What is your name? " name
 
